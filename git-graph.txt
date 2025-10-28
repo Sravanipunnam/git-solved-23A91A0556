@@ -1,0 +1,24 @@
+* 00221a5 (HEAD -> main, origin/main) docs: Add Changelog
+* 07949c4 docs: Add Git Journey documentation
+* 59ad6c6 docs: Update changelog - created 2+ tags
+| * a58e442 (origin/feature/another-feature, feature/another-feature) docs: Update changelog - used reset and revert
+| * 579e036 Bad commit
+| * 08cf800 feat: Add test feature
+|/  
+* bbef376 (tag: v1.1.0, tag: v1.0.0) docs:update README
+* 5082519 docs: UPDATE changelog- used cherry-pick 1 time
+* 08df268 feat: Add new feature
+* 006e301 docs: Add FAQ section
+| * bdebcec (feature/new-feature) feat:update configurations and documentation
+| * 533ae69 docs: update changelog - used stash 1 time
+| * bcf40db (origin/feature/new-feature) feat: Add new feature
+|/  
+*   7fcf5b9 merge: Resolve all conflicts between main and dev branches Conflicts resolved in 6 files: - config/app-config.yaml: Combined production and development configurations - config/database-config.json: Created separate profiles for each environment - scripts/deploy.sh: Added multi-environment support with conditional logic - scripts/monitor.js: Implemented environment-based configuration - docs/architecture.md: Merged documentation covering both environments - README.md: Combined feature lists and updated documentation
+|\  
+| * 02011a5 (instructor/dev, dev) updating dev
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+|/  
+* ae630eb Initial commit
