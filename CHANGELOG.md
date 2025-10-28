@@ -1,5 +1,11 @@
-## Phase 4: Git Command Usage
-- Used `git fetch` 1 time
-- Used `git pull` 1 time
-- Used cherry-pick 1 time
-- Created 2+ tags (v1.0.0, v1.1.0)
+- 07949c4: docs: Add Git Journey documentation (Sravanipunnam, 53 seconds ago)
+- 59ad6c6: docs: Update changelog - created 2+ tags (Sravanipunnam, 24 minutes ago)
+- bbef376: docs:update README (Sravanipunnam, 44 minutes ago)
+- 5082519: docs: UPDATE changelog- used cherry-pick 1 time (Sravanipunnam, 47 minutes ago)
+- 08df268: feat: Add new feature (Sravanipunnam, 62 minutes ago)
+- 006e301: docs: Add FAQ section (Sravanipunnam, 66 minutes ago)
+- 7fcf5b9: merge: Resolve all conflicts between main and dev branches Conflicts resolved in 6 files: - config/app-config.yaml: Combined production and development configurations - config/database-config.json: Created separate profiles for each environment - scripts/deploy.sh: Added multi-environment support with conditional logic - scripts/monitor.js: Implemented environment-based configuration - docs/architecture.md: Merged documentation covering both environments - README.md: Combined feature lists and updated documentation (Sravanipunnam, 2 hours ago)
+- 02011a5: updating dev (Hanu Gupta, 5 days ago)
+- 0312c6f: updating main (Hanu Gupta, 5 days ago)
+- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 5 days ago)
+- ae630eb: Initial commit (Hanu Gupta, 5 days ago)
